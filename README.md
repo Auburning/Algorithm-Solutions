@@ -1,19 +1,18 @@
 # Algorithm-Solutions
 
-
 # Source Code 💻
 
 | List | Topic                          | Title                | Link    | Difficulty |  Date             |
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------: |:---------------:|
-| 00 | Array | TwoSum |[Fomagran](./Array/TwoSum_Fomagran.js) [Ryan](./data_structure) [Lincoln](./data_structure) [JeongYeon](./data_structure) | Easy | 2/24 |
-| 01 | Array | Rotate Array | [Fomagran](./Array/Rotate_Array.js) | Easy | 2/24 |
+| 00 | Array | TwoSum |[Fomagran](./Array/TwoSum/TwoSum_Fomagran.js) [Ryan](./data_structure) [Lincoln](./data_structure) [JeongYeon](./data_structure) | Easy | 2/24 |
+| 01 | Array | Rotate Array | [Fomagran](./Array/RotateArray/RotateArray_Fomagran.js) | Easy | 2/24 |
 
 # Solution 📝
 
 | List | Topic                          | Title                | Link    | Difficulty |  Date             |
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------: |:---------------:|
-| 00 | Array | TwoSum |[Fomagran](./data_structure) [Ryan](./data_structure) [Lincoln](./data_structure) [JeongYeon](./data_structure) | Easy | 2/24 |
-| 01 | Array | Rotate Array | [Fomagran](./data_structure2) | Easy | 2/24 |
+| 00 | Array | TwoSum |[Fomagran](./Array/TwoSum/TwoSum_Fomagran.md) [Ryan](./data_structure) [Lincoln](./data_structure) [JeongYeon](./data_structure) | Easy | 2/24 |
+| 01 | Array | Rotate Array | [Fomagran](./Array/RotateArray/RotateArray_Fomagran.md) | Easy | 2/24 |
 
 # Members 👨‍👨‍👦‍👦
 
