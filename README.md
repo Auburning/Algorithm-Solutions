@@ -5,7 +5,7 @@
 
 | List | Topic                          | Title                | Link    | Difficulty |  Date             |
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------: |:---------------:|
-| 00 | Array | TwoSum |[Fomagran](./data_structure) [Ryan](./data_structure) [Lincoln](./data_structure) [JeongYeon](./data_structure) | Easy | 2/24 |
+| 00 | Array | TwoSum |[Fomagran](./TwoSum_Fomagran.js) [Ryan](./data_structure) [Lincoln](./data_structure) [JeongYeon](./data_structure) | Easy | 2/24 |
 | 01 | Array | Rotate Array | [Fomagran](./data_structure2) | Easy | 2/24 |
 
 # Solution 📝
