@@ -31,3 +31,7 @@ if nums.count == 1 { return }
 ```swift
 let k = k >= nums.count ? k-nums.count*(k/nums.count) : k
 ```
+
+
+
+
