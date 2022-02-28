@@ -2,7 +2,7 @@
 
 # 핵심
 
-> Array의 각 element는 숫자의 자릿수로 구성되어있다(each array[i] is th i<sup>th</sup> digit of the integer).
+> Array의 각 element는 숫자의 자릿수로 구성되어있다(each array[i] is the i<sup>th</sup> digit of the integer).
 > 1을 더할때 받아올림(regroup)의 여부를 잘 확인한다.
 > 가장 큰 자릿수가 올림을 받았을때 10이 되는지 여부(자릿수가 늘어나는지 여부)를 잘 확인한다.
 
