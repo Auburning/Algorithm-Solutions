@@ -33,7 +33,7 @@
             <a href="https://github.com/moh008">Lincoln</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/RyanDonggunLee"><img height="100px" width="100px" src="https://user-images.githubusercontent.com/47676921/155339049-0d8a32a8-aa90-4b28-94e5-a3540cc53136.png"/></a>
+            <a href="https://github.com/RyanDonggunLee"><img height="100px" width="100px" src="https://user-images.githubusercontent.com/40766493/156107630-9ed8d9ac-0a9b-42b8-ab7b-28f386247298.jpeg"/></a>
             <br />
             <a href="https://github.com/RyanDonggunLee">Ryan</a>
         </td>
