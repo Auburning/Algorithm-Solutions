@@ -5,7 +5,7 @@
 | List | Topic                          | Title                | Link    | Difficulty |  Date             |
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------: |:---------------:|
 | 00 | Array | TwoSum |[Fomagran](./Array/TwoSum/TwoSum_Fomagran.js) [Ryan](./Array/TwoSum/TwoSum_Ryan.java) [Lincoln](./data_structure) [JeongYeon](./data_structure) | Easy | 2/24 |
-| 01 | Array | Rotate Array | [Fomagran](./Array/RotateArray/RotateArray_Fomagran.js) [Ryan](./Array/RotateArray/RotateArray_Ryan.java) | Easy | 2/24 |
+| 01 | Array | Rotate Array | [Fomagran](./Array/RotateArray/RotateArray_Fomagran.js) [Ryan](./Array/RotateArray/RotateArray_Ryan.java) | Medium | 2/24 |
 | 02 | Array | Single Number | [Fomagran](./Array/SingleNumber/SingleNumber_Fomagran.js) [Ryan](./Array/SingleNumber/SingleNumber_Ryan.js) | Easy | 3/3 |
 | 03 | Array | Plus One | [Fomagran](./Array/PlusOne/PlusOne_Fomagran.js) [Ryan](./Array/PlusOne/PlusOne_Ryan.js) | Easy | 3/3 |
 
@@ -14,7 +14,7 @@
 | List | Topic                          | Title                | Link    | Difficulty |  Date             |
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------: |:---------------:|
 | 00 | Array | TwoSum |[Fomagran](./Array/TwoSum/TwoSum_Fomagran.md) [Ryan](./data_structure) [Lincoln](./data_structure) [JeongYeon](./data_structure) | Easy | 2/24 |
-| 01 | Array | Rotate Array | [Fomagran](./Array/RotateArray/RotateArray_Fomagran.md) | Easy | 2/24 |
+| 01 | Array | Rotate Array | [Fomagran](./Array/RotateArray/RotateArray_Fomagran.md) | Medium | 2/24 |
 | 02 | Array | Single Number | [Fomagran](./Array/SingleNumber/SingleNumber_Fomagran.md) [Ryan](./Array/SingleNumber/SingleNumber_Ryan.md) | Easy | 3/3 |
 | 03 | Array | Plus One | [Fomagran](./Array/PlusOne/PlusOne_Fomagran.md) [Ryan](./Array/PlusOne/PlusOne_Ryan.md) | Easy | 3/3 |
 
