@@ -4,10 +4,10 @@
 
 | List | Topic                          | Title                | Link    | Difficulty |  Date             |
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------: |:---------------:|
-| 00 | Array | TwoSum |[Fomagran](./Array/TwoSum/TwoSum_Fomagran.js) [Ryan](./Array/TwoSum/TwoSum_Ryan.java) [Lincoln](./data_structure) [JeongYeon](./Array/TwoSum/TwoSum_jeongyeon.py) | Easy | 2/24 |
-| 01 | Array | Rotate Array | [Fomagran](./Array/RotateArray/RotateArray_Fomagran.js) [Ryan](./Array/RotateArray/RotateArray_Ryan.java) [Jeongyeon](./Array/RotateArray/RotateArray_jeongyeon.py) | Medium | 2/24 |
-| 02 | Array | Single Number | [Fomagran](./Array/SingleNumber/SingleNumber_Fomagran.js) [Ryan](./Array/SingleNumber/SingleNumber_Ryan.js) [Jeongyeon](./Array/SingleNumber/SingleNumber_jeongyeon.py) | Easy | 3/3 |
-| 03 | Array | Plus One | [Fomagran](./Array/PlusOne/PlusOne_Fomagran.js) [Ryan](./Array/PlusOne/PlusOne_Ryan.js) [Jeongyeon](./Array/PlusOne/PlusOne_jeongyeon.py)| Easy | 3/3 |
+| 00 | Array | [TwoSum](https://leetcode.com/problems/two-sum/) |[Fomagran](./Array/TwoSum/TwoSum_Fomagran.js) [Ryan](./Array/TwoSum/TwoSum_Ryan.java) [Lincoln](./data_structure) [JeongYeon](./Array/TwoSum/TwoSum_jeongyeon.py) | Easy | 2/24 |
+| 01 | Array | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Fomagran](./Array/RotateArray/RotateArray_Fomagran.js) [Ryan](./Array/RotateArray/RotateArray_Ryan.java) [Jeongyeon](./Array/RotateArray/RotateArray_jeongyeon.py) | Medium | 2/24 |
+| 02 | Array | [Single Number](https://leetcode.com/problems/single-number/) | [Fomagran](./Array/SingleNumber/SingleNumber_Fomagran.js) [Ryan](./Array/SingleNumber/SingleNumber_Ryan.js) [Jeongyeon](./Array/SingleNumber/SingleNumber_jeongyeon.py) | Easy | 3/3 |
+| 03 | Array | [Plus One](https://leetcode.com/problems/plus-one/) | [Fomagran](./Array/PlusOne/PlusOne_Fomagran.js) [Ryan](./Array/PlusOne/PlusOne_Ryan.js) [Jeongyeon](./Array/PlusOne/PlusOne_jeongyeon.py)| Easy | 3/3 |
 
 
 # Solution 📝
