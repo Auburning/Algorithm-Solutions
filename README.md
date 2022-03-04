@@ -29,7 +29,7 @@
             <br />
             <a href="https://github.com/tonyfomagran">Fomagran</a>
         </td>
-        <td align="center" width="130px">
+        <td align="center" width="200px">
             <a href="https://github.com/moh008"><img height="100px" width="100px" src="https://user-images.githubusercontent.com/22461471/155645928-969370e5-713c-40d8-b7f8-b4da3738cb52.jpg"/></a>
             <br />
             <a href="https://github.com/moh008">Lincoln</a>
