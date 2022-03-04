@@ -30,11 +30,6 @@
             <a href="https://github.com/tonyfomagran">Fomagran</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/moh008"><img height="100px" width="100px" src="https://user-images.githubusercontent.com/22461471/155645928-969370e5-713c-40d8-b7f8-b4da3738cb52.jpg"/></a>
-            <br />
-            <a href="https://github.com/moh008">Lincoln</a>
-        </td>
-        <td align="center" width="130px">
             <a href="https://github.com/RyanDonggunLee"><img height="100px" width="100px" src="https://user-images.githubusercontent.com/40766493/156107630-9ed8d9ac-0a9b-42b8-ab7b-28f386247298.jpeg"/></a>
             <br />
             <a href="https://github.com/RyanDonggunLee">Ryan</a>
@@ -43,5 +38,10 @@
             <a href="https://github.com/jeongyeon-park"><img height="100px" width="100px" src="https://user-images.githubusercontent.com/47676921/155339049-0d8a32a8-aa90-4b28-94e5-a3540cc53136.png"/></a>
             <br />
             <a href="https://github.com/jeongyeon-park">JeongYeon</a>
+        </td>
+        <td align="center" width="130px">
+            <a href="https://github.com/moh008"><img height="200px" width="250px" src="https://user-images.githubusercontent.com/22461471/155645928-969370e5-713c-40d8-b7f8-b4da3738cb52.jpg"/></a>
+            <br />
+            <a href="https://github.com/moh008">Lincoln</a>
         </td>
     </tr>
