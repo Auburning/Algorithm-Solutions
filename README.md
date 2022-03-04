@@ -40,7 +40,7 @@
             <a href="https://github.com/jeongyeon-park">JeongYeon</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/moh008"><img height="200px" width="200px" src="https://user-images.githubusercontent.com/22461471/155645928-969370e5-713c-40d8-b7f8-b4da3738cb52.jpg"/></a>
+            <a href="https://github.com/moh008"><img height="200px" width="250px" src="https://user-images.githubusercontent.com/22461471/155645928-969370e5-713c-40d8-b7f8-b4da3738cb52.jpg"/></a>
             <br />
             <a href="https://github.com/moh008">Lincoln</a>
         </td>
