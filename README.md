@@ -2,22 +2,28 @@
 
 # Source Code 💻
 
-| List | Topic                          | Title                | Link    | Difficulty |  Date             |
-| :--: | :--------------------------: | :-----------------: | :------:  | :---------: |:---------------:|
-| 00 | Array | [TwoSum](https://leetcode.com/problems/two-sum/) |[Fomagran](./Array/TwoSum/TwoSum_Fomagran.js) [Ryan](./Array/TwoSum/TwoSum_Ryan.java) [Lincoln](./data_structure) [JeongYeon](./Array/TwoSum/TwoSum_jeongyeon.py) | Easy | 2/24 |
-| 01 | Array | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Fomagran](./Array/RotateArray/RotateArray_Fomagran.js) [Ryan](./Array/RotateArray/RotateArray_Ryan.java) [Jeongyeon](./Array/RotateArray/RotateArray_jeongyeon.py) | Medium | 2/24 |
-| 02 | Array | [Single Number](https://leetcode.com/problems/single-number/) | [Fomagran](./Array/SingleNumber/SingleNumber_Fomagran.js) [Ryan](./Array/SingleNumber/SingleNumber_Ryan.js) [Jeongyeon](./Array/SingleNumber/SingleNumber_jeongyeon.py) | Easy | 3/3 |
-| 03 | Array | [Plus One](https://leetcode.com/problems/plus-one/) | [Fomagran](./Array/PlusOne/PlusOne_Fomagran.js) [Ryan](./Array/PlusOne/PlusOne_Ryan.js) [Jeongyeon](./Array/PlusOne/PlusOne_jeongyeon.py)| Easy | 3/3 |
+| List |Platform |Topic                          | Title                | Link    | Difficulty |  Date             |
+| :--: | :-----------------: | :--------------------------: | :-----------------: | :------:  | :---------: |:---------------:|
+| 00 |LeetCode |Array | [TwoSum](https://leetcode.com/problems/two-sum/) |[Fomagran](./Array/TwoSum/TwoSum_Fomagran.js) [Ryan](./Array/TwoSum/TwoSum_Ryan.java) [Lincoln](./data_structure) [JeongYeon](./Array/TwoSum/TwoSum_jeongyeon.py) | Easy | 2/24 |
+| 01 |LeetCode |Array | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Fomagran](./Array/RotateArray/RotateArray_Fomagran.js) [Ryan](./Array/RotateArray/RotateArray_Ryan.java) [Jeongyeon](./Array/RotateArray/RotateArray_jeongyeon.py) | Medium | 2/24 |
+| 02 |LeetCode |Array | [Single Number](https://leetcode.com/problems/single-number/) | [Fomagran](./Array/SingleNumber/SingleNumber_Fomagran.js) [Ryan](./Array/SingleNumber/SingleNumber_Ryan.js) [Jeongyeon](./Array/SingleNumber/SingleNumber_jeongyeon.py) | Easy | 3/3 |
+| 03 |LeetCode |Array | [Plus One](https://leetcode.com/problems/plus-one/) | [Fomagran](./Array/PlusOne/PlusOne_Fomagran.js) [Ryan](./Array/PlusOne/PlusOne_Ryan.js) [Jeongyeon](./Array/PlusOne/PlusOne_jeongyeon.py)| Easy | 3/3 |
+| 04 |Programmers |DP | [올바른 괄호의 갯수](https://programmers.co.kr/learn/courses/30/lessons/12929) | [Fomagran](./DP/올바른괄호의갯수/올바른괄호의갯수_Fomagran.swift)| 4단계 | 3/5 |
+| 05 |LeetCode |LinkedList | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Fomagran](./LinkedList/AddTwoNumbers/AddTwoNumbers.swift)| Medium | 3/5 |
+| 06 |LeetCode |String | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Fomagran](./String/LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.swift)| Medium | 3/5 |
 
 
 # Solution 📝
 
-| List | Topic                          | Title                | Link    | Difficulty |  Date             |
-| :--: | :--------------------------: | :-----------------: | :------:  | :---------: |:---------------:|
-| 00 | Array | TwoSum |[Fomagran](./Array/TwoSum/TwoSum_Fomagran.md) [Ryan](./data_structure) [Lincoln](./data_structure) [JeongYeon](./Array/TwoSum/TwoSum_jeongyeon.md) | Easy | 2/24 |
-| 01 | Array | Rotate Array | [Fomagran](./Array/RotateArray/RotateArray_Fomagran.md) [Jeongyeon](./Array/RotateArray/RotateArray_jeongyeon.md)| Medium | 2/24 |
-| 02 | Array | Single Number | [Fomagran](./Array/SingleNumber/SingleNumber_Fomagran.md) [Ryan](./Array/SingleNumber/SingleNumber_Ryan.md) [Jeongyeon](./Array/SingleNumber/SingleNumber_jeongyeon.md)| Easy | 3/3 |
-| 03 | Array | Plus One | [Fomagran](./Array/PlusOne/PlusOne_Fomagran.md) [Ryan](./Array/PlusOne/PlusOne_Ryan.md) [jeongyeon](./Array/PlusOne/PlusOne_jeongyeon.md)| Easy | 3/3 |
+| List |Platform | Topic                          | Title                | Link    | Difficulty |  Date             |
+| :--: | :--------------------------: |:-----------------: | :-----------------: | :------:  | :---------: |:---------------:|
+| 00 |LeetCode| Array | TwoSum |[Fomagran](./Array/TwoSum/TwoSum_Fomagran.md) [Ryan](./data_structure) [Lincoln](./data_structure) [JeongYeon](./Array/TwoSum/TwoSum_jeongyeon.md) | Easy | 2/24 |
+| 01 |LeetCode| Array | Rotate Array | [Fomagran](./Array/RotateArray/RotateArray_Fomagran.md) [Jeongyeon](./Array/RotateArray/RotateArray_jeongyeon.md)| Medium | 2/24 |
+| 02 |LeetCode| Array | Single Number | [Fomagran](./Array/SingleNumber/SingleNumber_Fomagran.md) [Ryan](./Array/SingleNumber/SingleNumber_Ryan.md) [Jeongyeon](./Array/SingleNumber/SingleNumber_jeongyeon.md)| Easy | 3/3 |
+| 03 |LeetCode| Array | Plus One | [Fomagran](./Array/PlusOne/PlusOne_Fomagran.md) [Ryan](./Array/PlusOne/PlusOne_Ryan.md) [jeongyeon](./Array/PlusOne/PlusOne_jeongyeon.md)| Easy | 3/3 |
+| 04 |Programmers |DP | 올바른 괄호의 갯수 | [Fomagran](./DP/올바른괄호의갯수/올바른괄호의갯수_Fomagran.md)| 4단계 | 3/5 |
+| 05 |LeetCode |LinkedList | Add Two Numbers | [Fomagran](./LinkedList/AddTwoNumbers/AddTwoNumbers.md)| Medium | 3/5 |
+| 06 |LeetCode |String | Longest Substring Without Repeating Characters| [Fomagran](./String/LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.md)| Medium | 3/5 |
 
 
 # Members 👨‍👨‍👦‍👦
