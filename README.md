@@ -22,8 +22,8 @@
 | 02 |LeetCode| Array | Single Number | [Fomagran](./Array/SingleNumber/SingleNumber_Fomagran.md) [Ryan](./Array/SingleNumber/SingleNumber_Ryan.md) [Jeongyeon](./Array/SingleNumber/SingleNumber_jeongyeon.md)| Easy | 3/3 |
 | 03 |LeetCode| Array | Plus One | [Fomagran](./Array/PlusOne/PlusOne_Fomagran.md) [Ryan](./Array/PlusOne/PlusOne_Ryan.md) [jeongyeon](./Array/PlusOne/PlusOne_jeongyeon.md)| Easy | 3/3 |
 | 04 |Programmers |DP | 올바른 괄호의 갯수 | [Fomagran](./DP/올바른괄호의갯수/올바른괄호의갯수_Fomagran.md)| 4단계 | 3/5 |
-| 05 |LeetCode |LinkedList | Add Two Numbers | [Fomagran](./LinkedList/AddTwoNumbers/AddTwoNumbers.md)| Medium | 3/5 |
-| 06 |LeetCode |String | Longest Substring Without Repeating Characters| [Fomagran](./String/LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.md)| Medium | 3/5 |
+| 05 |LeetCode |LinkedList | Add Two Numbers | [Fomagran](./LinkedList/AddTwoNumbers/AddTwoNumbers_Fomagran.md)| Medium | 3/5 |
+| 06 |LeetCode |String | Longest Substring Without Repeating Characters| [Fomagran](./String/LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters_Fomagran.md)| Medium | 3/5 |
 
 
 # Members 👨‍👨‍👦‍👦
