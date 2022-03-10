@@ -20,7 +20,8 @@ for i in range(0,len(nums)):
             return [i , j]
     
 ```
-2. 풀이 찾아보고 이해하기
+2. HashMap으로 풀어보자
+모든 nums를 key로 ?
 
 ### 구현 배경 지식
 간단한 파이썬 문법

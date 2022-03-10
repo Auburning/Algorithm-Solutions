@@ -1,4 +1,4 @@
-S# Single Number
+# Single Number
 ## 문제 이해 
 integer 배열 nums. 한 요소 빼고 모든 요소가 두번 들어가 있다. 
 그 한 요소를 찾아라 

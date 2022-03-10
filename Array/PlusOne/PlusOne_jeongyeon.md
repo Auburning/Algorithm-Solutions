@@ -1,4 +1,4 @@
-S# PlusOne
+# PlusOne
 ## 문제 이해 
 배열 digits이 들어온다. 
 여기서 각 자리[i]는 정수의 ith 자리.
