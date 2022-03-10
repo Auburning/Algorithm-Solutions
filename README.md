@@ -13,6 +13,7 @@
 | 06 |LeetCode |String | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Fomagran](./String/LongestSubStringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters_Fomagran.swift) [Jeongyeon](./String/LongestSubstringWithoutRepeatingCharacters_jeongyeon.js)| Medium | 3/5 |
 
 
+
 # Solution 📝
 
 | List |Platform | Topic                          | Title                | Link    | Difficulty |  Date             |
@@ -24,6 +25,7 @@
 | 04 |Programmers |DP | 올바른 괄호의 갯수 | [Fomagran](./DP/올바른괄호의갯수/올바른괄호의갯수_Fomagran.md)| 4단계 | 3/5 |
 | 05 |LeetCode |LinkedList | Add Two Numbers | [Fomagran](./LinkedList/AddTwoNumbers/AddTwoNumbers_Fomagran.md) [Jeongyeon](./LinkedLIst/AddTwoNumbers_jeongyeon.md)| Medium | 3/5 |
 | 06 |LeetCode |String | Longest Substring Without Repeating Characters| [Fomagran](./String/LongestSubStringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters_Fomagran.md) [Jeongyeon](./String/LongestSubstringWithoutRepeatingCharacters_jeongyeon.md)| Medium | 3/5 |
+
 
 
 # Members 👨‍👨‍👦‍👦
